@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	<PreferenceCategory android:title="@string/pref_setting" >
+	    <ListPreference
+	        android:key="gamelevel"
+	        android:entries="@array/gamelevel"
+	        android:entryValues="@array/gamelevelvalues"
+	        android:defaultValue="1"
+	        android:title="@string/pref_level"
+	        android:summary="@string/pref_level_summary" 
+	        />
+        <CheckBoxPreference
+            android:key="soundtoggle"
+            android:defaultValue="true"
+            android:summary="@string/pref_sound_summary"
+            android:title="@string/pref_sound" >
+        </CheckBoxPreference>
+        <Preference
+            android:title="@string/pref_score"
+            android:key="reset" >
+        </Preference>
+            
+    </PreferenceCategory> 
+
+</PreferenceScreen>

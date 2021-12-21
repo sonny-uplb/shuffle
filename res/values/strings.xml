@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shuffle</string>
+    <string name="action_settings">Settings</string>
+    <string name="playBtn">Play</string>
+    <string name="hiscoreBtn">High Score</string>
+    <string name="company">Sheenergizer</string>
+    <string name="welcome_remark">Shuffle Trivia Game</string>
+    <string name="howto">How to Play\n1) Pick any box with a topic and points
+        \n2) Points will be added for correct answers, subtracted otherwise
+        \n3) Box incorrectly answered will be disabled
+        \n4) Press \'Shuffle!\' to get a different set
+        \n5) Win game by answering correctly 50 or 100 for Easy and Normal round respectively
+        </string>
+    <string name="goBtn">Let\'s Start!</string>
+    <string name="shuffleBtn">Shuffle!</string>
+    <string name="backBtn">Back</string>
+    <string name="settingsBtn">Settings</string>
+    <string name="msgWinner">Congratulations! You have completed the question set</string>
+    <string name="msgLoser">Sorry, no turns left!</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_activity_box">Choose a box</string>
+    <string name="title_activity_question">Question</string>
+    <string name="title_activity_hiscore">Hi Score</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_setting">Settings</string>
+	<string name="pref_sound">Default Sound</string>
+	<string name="pref_sound_summary">On/Off</string>
+	<string name="pref_score">Reset Score</string>
+	<string name="pref_level">Level</string>
+	<string name="pref_level_summary">Easy - 50 questions\nNormal - 100 questions</string>
+</resources>
