@@ -1,4 +1,4 @@
-Shuffle Trivia Game
+# Shuffle Trivia Game
 =====
 Shuffle Trivia is a game where a player picks a box for a question. Written in each box is the category and its worth. The player may opt to change the boxes by clicking the shuffle button. The game ends if the question set is finished or there are no more available boxes.
 
